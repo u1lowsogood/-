@@ -17,5 +17,4 @@ export default defineConfig({
 
 module.exports = {
   outputDir: 'docs',
-  publicPath: './'
 }
